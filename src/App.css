@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: black;
+    border-radius: 25px;
+    border-style: groove;
+    width: 50%;
+    height: 50%;
+    margin-top: 100px;
+}
+
+.title {
+    font-size: xx-large;
+    font-weight: bold;
+    margin: 0;
+}
+
+.subtitle {
+    font-size: large;
+    font-weight: 500;
+}
